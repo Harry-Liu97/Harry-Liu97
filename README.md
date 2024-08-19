@@ -1,1 +1,2 @@
-- 👋 Hi, I’m Harry
+- 👋 Hi, I’m Harry Liu
+Proactive and innovative Full Stack Developer with experience specializing in both front-end and back-end web application development. Proficient in TypeScript, JavaScript (React, Next.js), Node.js, PostgreSQL, and MySQL. Highly Experienced with CI/CD and AWS Cloud Services. Demonstrated expertise in working within an agile development environment and delivering projects on time.
