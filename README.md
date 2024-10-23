@@ -1,2 +1,3 @@
 - 👋 Hi, I’m Harry Liu.
 - 🌟 A proactive and innovative Full Stack Developer with experience specializing in both front-end and back-end web application development. Proficient in TypeScript, JavaScript (React, Next.js), Node.js, PostgreSQL, and MySQL. Highly Experienced with CI/CD and AWS Cloud Services. Demonstrated expertise in working within an agile development environment and delivering projects on time.
+- 🏅 I successfully achieved the AWS Certified Cloud Practitioner (CLF-C02) certification, and I am diligently preparing for the next milestone: the AWS Certified Developer – Associate (DVA-C02) certification.
