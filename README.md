@@ -22,6 +22,7 @@
   </ul>
 
 - 🤝 I love making new friends and connecting with people!
+- 🗣️ I speak Chinese, English, and a bit of Cantonese! 🌐✨
 
 ---
 
