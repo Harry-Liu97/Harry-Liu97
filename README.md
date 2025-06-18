@@ -8,7 +8,7 @@
 ---
 <br>
 
-- 🌟 I‘m currently working at <strong>Meyd.it</strong>
+- 🌟 I‘m currently working at <strong>kazacos.ai</strong>
 - 🏅 Successfully achieved the <strong>AWS Certified Cloud Practitioner (CLF-C02)</strong> certification
 - 📚 Currently preparing for the next milestone: <strong>AWS Certified Developer – Associate (DVA-C02)</strong> certification.
 - 💞 I’m eager to collaborate on frontend, backend, or any exciting projects you think I might be a good fit for!  
